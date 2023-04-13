@@ -51,3 +51,5 @@ For Windows, see [official documentation](https://learn.microsoft.com/zh-cn/wind
 It is recommended not to specify, the default is the lowest priority, making way for all other processes.
 
 * Immediately execute all the functions you configure once you start the program, and you can observe the effect. *
+
+### glob pn how to use - https://blog.51sec.org/2023/02/oracle-cloud-cleaning-up-idle-compute.html
